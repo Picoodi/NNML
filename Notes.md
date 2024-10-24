@@ -73,10 +73,10 @@ print(layer_outputs)
 ```
 
 
-## Math and NumPy 
+#Math and NumPy 
 We need some more complex math and for that we can use Numpy a python library to make our lives a bit more easy.
 
-### Shape
+## Shape
 ```python
 l = [1,5,6,2]
 
@@ -96,7 +96,7 @@ The shape of lol would be (2, 4) cause the list lol itself has 2 lists itself an
 Its also a 2D Array and Matrix.
 The shape of lolol is (3, 2, 4) and is a 3d Array sometimes also called a Tensor.
 
-
+## Dot Product with NumPy
 To get the dot_product of vectors is when we multiply the elements of a vector/list element whise.  
 We use numpy now and also get our 3 Outputs like before.    
 We have to put the weights in before the inputs cause weights is more dimentional.
