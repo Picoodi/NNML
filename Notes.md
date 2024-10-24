@@ -73,7 +73,7 @@ print(layer_outputs)
 ```
 
 
-#Math and NumPy 
+# Math and NumPy 
 We need some more complex math and for that we can use Numpy a python library to make our lives a bit more easy.
 
 ## Shape
